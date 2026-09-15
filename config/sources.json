@@ -1,0 +1,100 @@
+[
+  {
+    "name": "OpenAI News",
+    "feed_url": "https://openai.com/news/rss.xml",
+    "homepage": "https://openai.com/news/",
+    "categories": ["ai-news", "ai-tools", "ai-agents", "rag-mlops", "weekly-ai-synthesis"],
+    "priority": 10
+  },
+  {
+    "name": "Google AI",
+    "feed_url": "https://blog.google/technology/ai/rss/",
+    "homepage": "https://blog.google/technology/ai/",
+    "categories": ["ai-news", "ai-tools", "ai-agents", "healthcare-ai", "weekly-ai-synthesis"],
+    "priority": 9
+  },
+  {
+    "name": "Google DeepMind",
+    "feed_url": "https://deepmind.google/blog/rss.xml",
+    "homepage": "https://deepmind.google/discover/blog/",
+    "categories": ["ai-news", "ai-agents", "healthcare-ai", "deep-learning-vision", "weekly-ai-synthesis"],
+    "priority": 10
+  },
+  {
+    "name": "Microsoft Research",
+    "feed_url": "https://www.microsoft.com/en-us/research/feed/",
+    "homepage": "https://www.microsoft.com/en-us/research/blog/",
+    "categories": ["ai-news", "ai-agents", "healthcare-ai", "rag-mlops", "deep-learning-vision", "weekly-ai-synthesis"],
+    "priority": 9
+  },
+  {
+    "name": "Hugging Face",
+    "feed_url": "https://huggingface.co/blog/feed.xml",
+    "homepage": "https://huggingface.co/blog",
+    "categories": ["ai-tools", "ai-agents", "rag-mlops", "deep-learning-vision", "weekly-ai-synthesis"],
+    "priority": 9
+  },
+  {
+    "name": "GitHub AI and ML",
+    "feed_url": "https://github.blog/ai-and-ml/feed/",
+    "homepage": "https://github.blog/ai-and-ml/",
+    "categories": ["ai-news", "ai-tools", "ai-agents", "rag-mlops", "weekly-ai-synthesis"],
+    "priority": 8
+  },
+  {
+    "name": "AWS Machine Learning Blog",
+    "feed_url": "https://aws.amazon.com/blogs/machine-learning/feed/",
+    "homepage": "https://aws.amazon.com/blogs/machine-learning/",
+    "categories": ["ai-tools", "healthcare-ai", "rag-mlops", "weekly-ai-synthesis"],
+    "priority": 8
+  },
+  {
+    "name": "PyTorch Blog",
+    "feed_url": "https://pytorch.org/feed.xml",
+    "homepage": "https://pytorch.org/blog/",
+    "categories": ["ai-tools", "rag-mlops", "deep-learning-vision"],
+    "priority": 8
+  },
+  {
+    "name": "TensorFlow Blog",
+    "feed_url": "https://blog.tensorflow.org/feeds/posts/default?alt=rss",
+    "homepage": "https://blog.tensorflow.org/",
+    "categories": ["ai-tools", "healthcare-ai", "rag-mlops", "deep-learning-vision"],
+    "priority": 8
+  },
+  {
+    "name": "NVIDIA Technical Blog",
+    "feed_url": "https://developer.nvidia.com/blog/feed/",
+    "homepage": "https://developer.nvidia.com/blog/",
+    "categories": ["ai-tools", "ai-agents", "healthcare-ai", "rag-mlops", "deep-learning-vision"],
+    "priority": 8
+  },
+  {
+    "name": "arXiv Machine Learning",
+    "feed_url": "https://export.arxiv.org/api/query?search_query=cat%3Acs.LG%20OR%20cat%3Astat.ML&start=0&max_results=25&sortBy=submittedDate&sortOrder=descending",
+    "homepage": "https://arxiv.org/list/cs.LG/recent",
+    "categories": ["ai-news", "healthcare-ai", "rag-mlops", "weekly-ai-synthesis"],
+    "priority": 7
+  },
+  {
+    "name": "arXiv Artificial Intelligence",
+    "feed_url": "https://export.arxiv.org/api/query?search_query=cat%3Acs.AI&start=0&max_results=25&sortBy=submittedDate&sortOrder=descending",
+    "homepage": "https://arxiv.org/list/cs.AI/recent",
+    "categories": ["ai-news", "ai-agents", "weekly-ai-synthesis"],
+    "priority": 7
+  },
+  {
+    "name": "arXiv Computation and Language",
+    "feed_url": "https://export.arxiv.org/api/query?search_query=cat%3Acs.CL&start=0&max_results=25&sortBy=submittedDate&sortOrder=descending",
+    "homepage": "https://arxiv.org/list/cs.CL/recent",
+    "categories": ["ai-tools", "ai-agents", "rag-mlops"],
+    "priority": 7
+  },
+  {
+    "name": "arXiv Computer Vision",
+    "feed_url": "https://export.arxiv.org/api/query?search_query=cat%3Acs.CV&start=0&max_results=25&sortBy=submittedDate&sortOrder=descending",
+    "homepage": "https://arxiv.org/list/cs.CV/recent",
+    "categories": ["deep-learning-vision"],
+    "priority": 7
+  }
+]

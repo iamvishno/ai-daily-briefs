@@ -1,0 +1,170 @@
+[
+  {
+    "title": "A practical way to think about trustworthy AI systems",
+    "url": "https://www.nist.gov/itl/ai-risk-management-framework",
+    "summary": "The NIST AI Risk Management Framework organises AI risk work around governance, mapping, measurement and management. It provides a useful structure for thinking beyond model accuracy and considering how an AI system behaves in its real context.",
+    "source": "NIST AI Risk Management Framework",
+    "categories": ["ai-news", "weekly-ai-synthesis"],
+    "priority": 6
+  },
+  {
+    "title": "Why model cards matter when AI systems reach real users",
+    "url": "https://huggingface.co/docs/hub/model-cards",
+    "summary": "Model cards document intended uses, limitations, training information and evaluation results. They help developers communicate what a model can and cannot safely support before it is integrated into a wider application.",
+    "source": "Hugging Face documentation",
+    "categories": ["ai-news", "ai-tools", "weekly-ai-synthesis"],
+    "priority": 6
+  },
+  {
+    "title": "Evaluation should be designed before an AI system is deployed",
+    "url": "https://scikit-learn.org/stable/modules/model_evaluation.html",
+    "summary": "Scikit-learn's evaluation guidance shows why the metric must match the task and the consequences of different errors. A single score rarely explains whether a system is reliable across classes, users and operating conditions.",
+    "source": "Scikit-learn documentation",
+    "categories": ["ai-news", "weekly-ai-synthesis"],
+    "priority": 6
+  },
+  {
+    "title": "Pipelines make machine-learning experiments easier to reproduce",
+    "url": "https://scikit-learn.org/stable/modules/compose.html#pipeline",
+    "summary": "A pipeline keeps preprocessing and modelling steps together. This reduces leakage risk, makes cross-validation more reliable and creates a clearer path from experiment to a repeatable prediction service.",
+    "source": "Scikit-learn documentation",
+    "categories": ["ai-tools", "rag-mlops"],
+    "priority": 6
+  },
+  {
+    "title": "FastAPI connects AI experiments with usable applications",
+    "url": "https://fastapi.tiangolo.com/",
+    "summary": "FastAPI provides typed request validation, automatic API documentation and an efficient Python web layer. For AI applications, this can turn a notebook or model function into a service that other systems can test and use.",
+    "source": "FastAPI documentation",
+    "categories": ["ai-tools", "rag-mlops"],
+    "priority": 6
+  },
+  {
+    "title": "Experiment tracking keeps model decisions visible",
+    "url": "https://mlflow.org/docs/latest/ml/tracking/",
+    "summary": "MLflow Tracking records parameters, code versions, metrics and output artefacts. That history makes it easier to compare experiments, explain why a model was selected and reproduce earlier results.",
+    "source": "MLflow documentation",
+    "categories": ["ai-tools", "rag-mlops"],
+    "priority": 6
+  },
+  {
+    "title": "AI agents need boundaries as much as they need tools",
+    "url": "https://openai.github.io/openai-agents-python/guardrails/",
+    "summary": "Agent guardrails can inspect inputs and outputs and stop a run when defined conditions are violated. This is important because tool access turns a language-model response into an action with real consequences.",
+    "source": "OpenAI Agents SDK documentation",
+    "categories": ["ai-agents"],
+    "priority": 6
+  },
+  {
+    "title": "Tool calling changes how an AI application should be evaluated",
+    "url": "https://platform.openai.com/docs/guides/function-calling",
+    "summary": "Function calling lets a model request structured operations from application code. Reliable evaluation therefore has to examine tool choice, argument quality, execution errors and final-answer grounding rather than only the generated text.",
+    "source": "OpenAI API documentation",
+    "categories": ["ai-agents"],
+    "priority": 6
+  },
+  {
+    "title": "The Model Context Protocol gives tools a common interface",
+    "url": "https://modelcontextprotocol.io/docs/getting-started/intro",
+    "summary": "The Model Context Protocol defines a consistent way for AI applications to connect with tools and contextual data. A shared interface can reduce one-off integrations, but permissions and trust boundaries still require careful design.",
+    "source": "Model Context Protocol documentation",
+    "categories": ["ai-agents", "weekly-ai-synthesis"],
+    "priority": 6
+  },
+  {
+    "title": "Explainability is useful only when it answers the right clinical question",
+    "url": "https://shap.readthedocs.io/en/latest/",
+    "summary": "SHAP estimates how features contribute to a model output. In healthcare work, those values can support investigation and communication, but they do not by themselves prove causality, clinical validity or safety.",
+    "source": "SHAP documentation",
+    "categories": ["healthcare-ai"],
+    "priority": 6
+  },
+  {
+    "title": "Responsible healthcare AI begins with human oversight",
+    "url": "https://www.who.int/publications/i/item/9789240029200",
+    "summary": "The World Health Organization's guidance places autonomy, safety, transparency, accountability, equity and sustainability at the centre of AI for health. These principles matter throughout design, evaluation and deployment.",
+    "source": "World Health Organization",
+    "categories": ["healthcare-ai"],
+    "priority": 6
+  },
+  {
+    "title": "Clinical prediction needs more than a good headline metric",
+    "url": "https://scikit-learn.org/stable/modules/calibration.html",
+    "summary": "A classifier can rank cases correctly while still producing poorly calibrated probabilities. When predictions may inform clinical attention, probability calibration and threshold selection deserve separate evaluation.",
+    "source": "Scikit-learn documentation",
+    "categories": ["healthcare-ai"],
+    "priority": 6
+  },
+  {
+    "title": "RAG quality depends on retrieval before generation",
+    "url": "https://python.langchain.com/docs/tutorials/rag/",
+    "summary": "Retrieval-augmented generation places relevant external context in the model's prompt. If retrieval misses the right evidence, a fluent generator cannot reliably recover it, so retrieval and generation should be evaluated separately.",
+    "source": "LangChain documentation",
+    "categories": ["rag-mlops"],
+    "priority": 6
+  },
+  {
+    "title": "Document chunking is an engineering decision, not a fixed recipe",
+    "url": "https://docs.llamaindex.ai/en/stable/module_guides/loading/node_parsers/",
+    "summary": "Chunk size and document structure influence what a retrieval system can find and how much context a model receives. Layout, headings and semantic boundaries can be as important as a fixed token count.",
+    "source": "LlamaIndex documentation",
+    "categories": ["rag-mlops"],
+    "priority": 6
+  },
+  {
+    "title": "Data versioning connects an ML result with its evidence",
+    "url": "https://dvc.org/doc/start",
+    "summary": "DVC links data and pipeline stages with version-controlled metadata. This helps an ML team trace a result back to the dataset and processing steps that produced it without storing every large file directly in Git.",
+    "source": "DVC documentation",
+    "categories": ["rag-mlops", "weekly-ai-synthesis"],
+    "priority": 6
+  },
+  {
+    "title": "Transfer learning makes smaller vision datasets more practical",
+    "url": "https://docs.pytorch.org/tutorials/beginner/transfer_learning_tutorial.html",
+    "summary": "Transfer learning starts from features learned on a larger dataset and adapts them to a new task. It can reduce training time and data requirements, although domain shift and class imbalance still need careful testing.",
+    "source": "PyTorch documentation",
+    "categories": ["deep-learning-vision"],
+    "priority": 6
+  },
+  {
+    "title": "Image augmentation should reflect plausible variation",
+    "url": "https://www.tensorflow.org/tutorials/images/data_augmentation",
+    "summary": "Image augmentation introduces transformations during training to improve generalisation. The transformations should match realistic variation in the target setting rather than create images that could not occur in practice.",
+    "source": "TensorFlow documentation",
+    "categories": ["deep-learning-vision"],
+    "priority": 6
+  },
+  {
+    "title": "Computer-vision evaluation must look beyond overall accuracy",
+    "url": "https://torchmetrics.readthedocs.io/en/stable/classification/accuracy.html",
+    "summary": "Overall accuracy can hide poor performance on a smaller or more important class. Per-class precision, recall, confusion matrices and error review provide a more useful picture of vision-model behaviour.",
+    "source": "TorchMetrics documentation",
+    "categories": ["deep-learning-vision"],
+    "priority": 6
+  },
+  {
+    "title": "Reproducible automation needs observable workflow runs",
+    "url": "https://docs.github.com/en/actions/monitoring-and-troubleshooting-workflows/monitoring-workflows/viewing-workflow-run-history",
+    "summary": "Workflow history records when an automated process ran, which commit it used and where it failed. This turns a scheduled script into an observable process that can be checked and repaired.",
+    "source": "GitHub Actions documentation",
+    "categories": ["weekly-ai-synthesis"],
+    "priority": 6
+  },
+  {
+    "title": "Containers make an AI service easier to reproduce",
+    "url": "https://docs.docker.com/get-started/docker-concepts/the-basics/what-is-a-container/",
+    "summary": "A container packages an application with its runtime dependencies. For AI services, this reduces environment differences between development, testing and deployment, although data and model artefacts still need explicit version control.",
+    "source": "Docker documentation",
+    "categories": ["ai-tools", "rag-mlops", "weekly-ai-synthesis"],
+    "priority": 6
+  },
+  {
+    "title": "Semantic search depends on what an embedding preserves",
+    "url": "https://huggingface.co/docs/sentence-transformers/usage/semantic_textual_similarity",
+    "summary": "Sentence embeddings place text in a vector space where similarity can be measured. Their usefulness depends on the training objective, the target domain and whether the chosen similarity measure matches the retrieval task.",
+    "source": "Hugging Face Sentence Transformers documentation",
+    "categories": ["ai-tools", "rag-mlops", "weekly-ai-synthesis"],
+    "priority": 6
+  }
+]

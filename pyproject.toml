@@ -1,0 +1,11 @@
+[project]
+name = "ai-daily-briefs"
+version = "1.0.0"
+description = "A validated daily AI briefing workflow for GitHub"
+requires-python = ">=3.11"
+license = { text = "MIT" }
+authors = [{ name = "Vishnu Vardhan" }]
+
+[tool.ruff]
+line-length = 100
+target-version = "py311"

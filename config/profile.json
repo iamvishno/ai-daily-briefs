@@ -1,0 +1,40 @@
+{
+  "name": "Vishnu Vardhan",
+  "github_username": "iamvishno",
+  "positioning": "MSc Artificial Intelligence (Advanced Practice) student at Teesside University and early-career AI and Data Science practitioner",
+  "verified_background": [
+    "B.Tech in Data Science",
+    "seven months of Data Science internship experience",
+    "current Pfizer-sponsored document-intelligence externship",
+    "co-author of the SLURP neonatal machine-learning study, with the draft manuscript under academic review",
+    "experience building RAG, machine-learning, computer-vision and data applications"
+  ],
+  "technical_focus": [
+    "Python",
+    "machine learning",
+    "RAG and LLM applications",
+    "LangChain and LlamaIndex",
+    "FastAPI and Docker",
+    "document intelligence and OCR",
+    "healthcare AI and explainable AI",
+    "MLOps",
+    "deep learning and computer vision"
+  ],
+  "target_roles": [
+    "Graduate AI Engineer",
+    "Graduate Machine Learning Engineer",
+    "Junior Data Scientist",
+    "Applied AI Engineer"
+  ],
+  "voice": {
+    "language": "British English",
+    "tone": "natural, practical, thoughtful and professionally confident",
+    "length": "150 to 250 words",
+    "avoid": [
+      "corporate slogans",
+      "excessive hype",
+      "generic motivational language",
+      "claims of expertise beyond the verified background"
+    ]
+  }
+}

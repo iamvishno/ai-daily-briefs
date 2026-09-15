@@ -1,0 +1,44 @@
+{
+  "monday": {
+    "slug": "ai-news",
+    "label": "Major AI news and industry developments",
+    "keywords": ["artificial intelligence", "AI", "model", "research", "release", "benchmark", "safety", "robotics"],
+    "connection": "applied AI, model evaluation and the wider direction of the AI industry"
+  },
+  "tuesday": {
+    "slug": "ai-tools",
+    "label": "New AI tools, models and platforms",
+    "keywords": ["tool", "API", "model", "platform", "developer", "framework", "open source", "assistant"],
+    "connection": "building practical AI applications with Python, APIs and modern AI frameworks"
+  },
+  "wednesday": {
+    "slug": "ai-agents",
+    "label": "AI agents and workflow automation",
+    "keywords": ["agent", "agentic", "tool use", "workflow", "automation", "autonomous", "MCP", "orchestration"],
+    "connection": "agent reliability, workflow automation, tool calling and human oversight"
+  },
+  "thursday": {
+    "slug": "healthcare-ai",
+    "label": "Healthcare AI, explainability and responsible AI",
+    "keywords": ["healthcare", "clinical", "medical", "patient", "diagnostic", "explainable", "SHAP", "responsible AI"],
+    "connection": "healthcare AI, clinical machine learning, explainability and safe human-centred decision support"
+  },
+  "friday": {
+    "slug": "rag-mlops",
+    "label": "RAG, LLM applications, MLOps and deployment",
+    "keywords": ["RAG", "retrieval", "embedding", "vector", "LLM", "evaluation", "deployment", "MLOps", "Docker"],
+    "connection": "RAG systems, document intelligence, evaluation, APIs and reliable deployment"
+  },
+  "saturday": {
+    "slug": "deep-learning-vision",
+    "label": "Research, deep learning and computer vision",
+    "keywords": ["deep learning", "computer vision", "image", "video", "multimodal", "PyTorch", "TensorFlow", "neural network"],
+    "connection": "deep learning, computer vision, model evaluation and practical AI applications"
+  },
+  "sunday": {
+    "slug": "weekly-ai-synthesis",
+    "label": "Weekly AI synthesis and future learning direction",
+    "keywords": ["AI", "research", "model", "agent", "safety", "open source", "evaluation", "multimodal"],
+    "connection": "connecting current AI developments with a structured long-term learning direction"
+  }
+}

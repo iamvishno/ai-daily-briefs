@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Test AI Research Feed</title>
+    <link>https://example.org/ai</link>
+    <description>Offline test data for the daily AI briefing workflow.</description>
+    <item>
+      <title>New open-source toolkit improves evaluation of tool-using AI agents</title>
+      <link>https://example.org/ai/agent-evaluation-toolkit?utm_source=test</link>
+      <guid>https://example.org/ai/agent-evaluation-toolkit</guid>
+      <pubDate>Tue, 15 Sep 2026 06:00:00 GMT</pubDate>
+      <description><![CDATA[
+        The toolkit records tool selection, arguments, execution results and recovery behaviour.
+        It is designed to help developers compare agent workflows with repeatable tests.
+      ]]></description>
+    </item>
+    <item>
+      <title>Researchers study probability calibration for clinical prediction models</title>
+      <link>https://example.org/ai/clinical-calibration</link>
+      <guid>https://example.org/ai/clinical-calibration</guid>
+      <pubDate>Mon, 14 Sep 2026 09:30:00 GMT</pubDate>
+      <description><![CDATA[
+        The study examines how calibration changes across hospitals and patient groups.
+        It recommends reporting calibration alongside discrimination metrics.
+      ]]></description>
+    </item>
+    <item>
+      <title>Compact vision model targets faster image classification</title>
+      <link>https://example.org/ai/compact-vision-model</link>
+      <guid>https://example.org/ai/compact-vision-model</guid>
+      <pubDate>Sun, 13 Sep 2026 12:00:00 GMT</pubDate>
+      <description><![CDATA[
+        A smaller neural network architecture reduces inference requirements for image tasks.
+        The release includes evaluation results and implementation details.
+      ]]></description>
+    </item>
+  </channel>
+</rss>
