@@ -7,6 +7,7 @@ Each brief starts from a cited primary source. The writing is intentionally shor
 ## Latest briefs
 
 <!-- DAILY_INDEX_START -->
+- [2026-09-16 — Agentic Societies Need a Social Harness](daily/2026/09/2026-09-16-agentic-societies-need-a-social-harness.md)
 - [2026-09-15 — Persistent memory could make coding agents more useful across sessions](daily/2026/09/2026-09-15-persistent-memory-for-coding-agents.md)
 <!-- DAILY_INDEX_END -->
 
