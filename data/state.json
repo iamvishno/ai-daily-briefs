@@ -1,9 +1,141 @@
 {
   "used_urls": [
     "https://huggingface.co/blog/funes",
-    "https://arxiv.org/abs/2609.17527v1"
+    "https://arxiv.org/abs/2609.17527v1",
+    "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking"
   ],
   "article_cache": [
+    {
+      "title": "How to Use AI Agents to Prepare 3D Scenes for Simulation",
+      "url": "https://developer.nvidia.com/blog/how-to-use-ai-agents-to-prepare-3d-scenes-for-simulation",
+      "summary": "Agentic AI workflows can be used to prepare and validate digital twins for physical AI systems. Agents can inspect 3D scenes, author simulation-relevant data in...",
+      "source": "NVIDIA Technical Blog",
+      "published": "2026-09-16T23:25:01+00:00",
+      "categories": [
+        "ai-tools",
+        "ai-agents",
+        "healthcare-ai",
+        "rag-mlops",
+        "deep-learning-vision"
+      ],
+      "priority": 8
+    },
+    {
+      "title": "Experiment with Qwen3.8-Flash-Next on NVIDIA GB300 NVL72 for Agentic Coding",
+      "url": "https://developer.nvidia.com/blog/experiment-with-qwen3-8-flash-next-on-nvidia-gb300-nvl72-for-agentic-coding",
+      "summary": "Alibaba released the model weights for Qwen3.8-Flash-Next as a preview of the upcoming Qwen4 architecture for developers to experiment with and evaluate. It’s...",
+      "source": "NVIDIA Technical Blog",
+      "published": "2026-09-16T21:46:25+00:00",
+      "categories": [
+        "ai-tools",
+        "ai-agents",
+        "healthcare-ai",
+        "rag-mlops",
+        "deep-learning-vision"
+      ],
+      "priority": 8
+    },
+    {
+      "title": "Serve Qwen3.8-2.4T-A95B, a 2.4T-Parameter Model, with Configurable Reasoning on NVIDIA GB300 NVL72",
+      "url": "https://developer.nvidia.com/blog/serve-qwen3-8-2-4t-a95b-a-2-4t-parameter-model-with-configurable-reasoning-on-nvidia-gb300-nvl72",
+      "summary": "Alibaba released the open weights for Qwen3.8-2.4T-A95B (Qwen3.8-Max), its largest open-weight model, bringing near-frontier capabilities to the open...",
+      "source": "NVIDIA Technical Blog",
+      "published": "2026-09-16T21:39:25+00:00",
+      "categories": [
+        "ai-tools",
+        "ai-agents",
+        "healthcare-ai",
+        "rag-mlops",
+        "deep-learning-vision"
+      ],
+      "priority": 8
+    },
+    {
+      "title": "TensorRT Edge-LLM Completes the MLPerf Edge Agentic Benchmark 6.4x Faster on Jetson AGX Thor",
+      "url": "https://developer.nvidia.com/blog/tensorrt-edge-llm-completes-the-mlperf-edge-agentic-benchmark-6-4x-faster-on-jetson-agx-thor",
+      "summary": "AI agents are moving from cloud data centers to vehicles, robots, and other edge devices. Unlike a chatbot that answers a single prompt, an agent works through...",
+      "source": "NVIDIA Technical Blog",
+      "published": "2026-09-16T20:37:15+00:00",
+      "categories": [
+        "ai-tools",
+        "ai-agents",
+        "healthcare-ai",
+        "rag-mlops",
+        "deep-learning-vision"
+      ],
+      "priority": 8
+    },
+    {
+      "title": "Improving HCLS AI reasoning with open-source agent skills",
+      "url": "https://aws.amazon.com/blogs/machine-learning/improving-hcls-ai-reasoning-with-open-source-agent-skills",
+      "summary": "AI agents on foundation models often misapply healthcare and life sciences decision frameworks, citing the right guideline but applying it incorrectly. This post shares 38 open-source agent skills across 11 HCLS domains that close this gap, with installation steps, three worked use cases, and a 410-prompt evaluation showing a 70-86% win rate.",
+      "source": "AWS Machine Learning Blog",
+      "published": "2026-09-16T19:00:00+00:00",
+      "categories": [
+        "ai-tools",
+        "healthcare-ai",
+        "rag-mlops",
+        "weekly-ai-synthesis"
+      ],
+      "priority": 8
+    },
+    {
+      "title": "Fault tolerant distributed training on Amazon EKS using NVRx",
+      "url": "https://aws.amazon.com/blogs/machine-learning/fault-tolerant-distributed-training-on-amazon-eks-using-nvrx",
+      "summary": "Integrate NVIDIA Resiliency Extension (NVRx) into PyTorch FSDP training on Amazon EKS to overlap checkpoint I/O with training and recover from GPU faults in seconds. This post covers async checkpointing, in-process restart, and ft_launcher in-job restart, with H100 benchmarks at 2 to 8 nodes showing 99%+ training efficiency and second-scale recovery.",
+      "source": "AWS Machine Learning Blog",
+      "published": "2026-09-16T18:59:25+00:00",
+      "categories": [
+        "ai-tools",
+        "healthcare-ai",
+        "rag-mlops",
+        "weekly-ai-synthesis"
+      ],
+      "priority": 8
+    },
+    {
+      "title": "Translating CUDA Tile Operations from Python to Rust Using Agentic AI",
+      "url": "https://developer.nvidia.com/blog/translating-cuda-tile-operations-from-python-to-rust-using-agentic-ai",
+      "summary": "cuTile Rust (cutile-rs) is a tile-based system for safe, idiomatic GPU kernel authoring in the Rust programming language. Extending the Rust ownership model to...",
+      "source": "NVIDIA Technical Blog",
+      "published": "2026-09-16T16:29:07+00:00",
+      "categories": [
+        "ai-tools",
+        "ai-agents",
+        "healthcare-ai",
+        "rag-mlops",
+        "deep-learning-vision"
+      ],
+      "priority": 8
+    },
+    {
+      "title": "Optimizing agent system prompts with Amazon Bedrock AgentCore",
+      "url": "https://aws.amazon.com/blogs/machine-learning/optimizing-agent-system-prompts-with-amazon-bedrock-agentcore",
+      "summary": "AgentCore optimization turns production traces into proposed configuration changes, then validates them before promotion. This technical companion to the launch post explains how the system prompt optimizer's reflector engine works and shares benchmark results for the Single Agent and Sub-Agent Reflectors.",
+      "source": "AWS Machine Learning Blog",
+      "published": "2026-09-16T15:47:39+00:00",
+      "categories": [
+        "ai-tools",
+        "healthcare-ai",
+        "rag-mlops",
+        "weekly-ai-synthesis"
+      ],
+      "priority": 8
+    },
+    {
+      "title": "Build a serverless PII redaction pipeline with Amazon Bedrock Data Automation",
+      "url": "https://aws.amazon.com/blogs/machine-learning/build-a-serverless-pii-redaction-pipeline-with-amazon-bedrock-data-automation",
+      "summary": "Learn how to automate end-to-end PII detection and redaction from scanned documents at scale using Amazon Bedrock Data Automation with a custom blueprint, AWS Step Functions, and AWS Lambda. A custom blueprint redacts sensitive fields with field-level precision, and a token matching quality check raises recall across degraded and handwritten documents.",
+      "source": "AWS Machine Learning Blog",
+      "published": "2026-09-16T15:17:37+00:00",
+      "categories": [
+        "ai-tools",
+        "healthcare-ai",
+        "rag-mlops",
+        "weekly-ai-synthesis"
+      ],
+      "priority": 8
+    },
     {
       "title": "Agentic Societies Need a Social Harness",
       "url": "https://arxiv.org/abs/2609.17527v1",
@@ -338,6 +470,20 @@
       "priority": 7
     },
     {
+      "title": "Optimizing cost and latency with Amazon Bedrock prompt caching",
+      "url": "https://aws.amazon.com/blogs/machine-learning/optimizing-cost-and-latency-with-amazon-bedrock-prompt-caching",
+      "summary": "Prompt caching in Amazon Bedrock can cut input token costs by up to 90% when you repeatedly send the same context to foundation models. This post walks through six practical prompt caching scenarios using the Converse API: message content, system prompt, tool definition, mixed TTL, tenant isolation, and LangChain integration.",
+      "source": "AWS Machine Learning Blog",
+      "published": "2026-09-15T16:18:19+00:00",
+      "categories": [
+        "ai-tools",
+        "healthcare-ai",
+        "rag-mlops",
+        "weekly-ai-synthesis"
+      ],
+      "priority": 8
+    },
+    {
       "title": "Large Language Models Develop Belief State Geometry In-Context",
       "url": "https://arxiv.org/abs/2609.17376v1",
       "summary": "Large language models (LLMs) trained on next-token prediction exhibit remarkable in-context learning (ICL) abilities, yet the representations that support ICL remain poorly understood. We consider such representations in a controlled setting: prompting LLMs with data emitted from hidden Markov models (HMMs) and probing for the corresponding belief state -- the posterior distribution over the HMM's hidden states given the observed token history. Across six open-source LLMs prompted with data from 40 HMMs selected for non-trivial belief structure, we find that belief states are linearly decodable from residual stream activations, with peak probe $R^2$-values from 0.83-0.99 across HMM and LLM combinations, ranging from early to late layers. To establish functional relevance, we intervene directly on the probe-identified subspace via patching and steering, resulting in downstream prediction quality on the order of the untampered model, while controls degrade performance substantially. Together, these results provide representation-level evidence that ICL in open-source LLMs approximates optimal Bayesian prediction over a context-inferred generative model. More broadly, our findings extend prior results linking input-distribution structure to activation geometry: from toy networks trained explicitly on HMM data to production-scale LLMs.",
@@ -349,6 +495,34 @@
         "rag-mlops"
       ],
       "priority": 7
+    },
+    {
+      "title": "Build an AI-powered product tagging system with Amazon SageMaker serverless model customization",
+      "url": "https://aws.amazon.com/blogs/machine-learning/build-an-ai-powered-product-tagging-system-with-amazon-sagemaker-serverless-model-customization",
+      "summary": "Manually tagging thousands of catalog products is slow and inconsistent. This walkthrough shows how to customize Qwen3-8B with supervised fine-tuning (SFT) and reinforcement learning with verifiable rewards (RLVR) on Amazon SageMaker serverless model customization, then deploy it for asynchronous inference to build a cost-efficient product tagging system.",
+      "source": "AWS Machine Learning Blog",
+      "published": "2026-09-15T16:11:36+00:00",
+      "categories": [
+        "ai-tools",
+        "healthcare-ai",
+        "rag-mlops",
+        "weekly-ai-synthesis"
+      ],
+      "priority": 8
+    },
+    {
+      "title": "Announcing instance preference lists for Amazon SageMaker AI training jobs",
+      "url": "https://aws.amazon.com/blogs/machine-learning/announcing-instance-preference-lists-for-amazon-sagemaker-ai-training-jobs",
+      "summary": "Amazon SageMaker AI now offers instance preference lists for training and processing jobs. Specify an ordered list of up to five instance types, and SageMaker AI automatically launches on the first type with available capacity, eliminating manual retry loops and capacity-watching scripts.",
+      "source": "AWS Machine Learning Blog",
+      "published": "2026-09-15T16:01:47+00:00",
+      "categories": [
+        "ai-tools",
+        "healthcare-ai",
+        "rag-mlops",
+        "weekly-ai-synthesis"
+      ],
+      "priority": 8
     },
     {
       "title": "Your Agent Aced the Task. Will It Do It Again?",
@@ -714,6 +888,34 @@
       "priority": 8
     },
     {
+      "title": "Abnormal AI: Amazon Bedrock AgentCore for agentic email security at scale",
+      "url": "https://aws.amazon.com/blogs/machine-learning/abnormal-ai-amazon-bedrock-agentcore-for-agentic-email-security-at-scale",
+      "summary": "Learn how Abnormal AI deployed Amazon Bedrock AgentCore Code Interpreter as an ephemeral compute scratch pad for the agents behind its real-time email threat detection at billion-message scale, plus the sandbox design decisions and practical lessons for builders deploying Code Interpreter in production.",
+      "source": "AWS Machine Learning Blog",
+      "published": "2026-09-14T21:22:45+00:00",
+      "categories": [
+        "ai-tools",
+        "healthcare-ai",
+        "rag-mlops",
+        "weekly-ai-synthesis"
+      ],
+      "priority": 8
+    },
+    {
+      "title": "Manage end-user OAuth consent for AI agents with Amazon Bedrock AgentCore",
+      "url": "https://aws.amazon.com/blogs/machine-learning/manage-end-user-oauth-consent-for-ai-agents-with-amazon-bedrock-agentcore",
+      "summary": "Amazon Bedrock AgentCore Identity now offers a Consent portal, a managed web experience and session binding endpoint for AgentCore Gateway. This post walks through provisioning a portal, configuring GitHub and Slack authorization code grant targets, and the end-user consent flow, and shows how to review activity in AWS CloudTrail.",
+      "source": "AWS Machine Learning Blog",
+      "published": "2026-09-14T20:35:45+00:00",
+      "categories": [
+        "ai-tools",
+        "healthcare-ai",
+        "rag-mlops",
+        "weekly-ai-synthesis"
+      ],
+      "priority": 8
+    },
+    {
       "title": "Watch astronaut Christina Koch and Google’s James Manyika discuss space, technology, and discovery.",
       "url": "https://blog.google/innovation-and-ai/technology/ai/dialogues-christina-koch",
       "summary": "Christina Koch sits down with James Manyika, Google’s Senior Vice President of Research, Labs, Technology & Society.",
@@ -757,6 +959,48 @@
         "weekly-ai-synthesis"
       ],
       "priority": 9
+    },
+    {
+      "title": "How Ninth Wave built AI-powered open finance onboarding on Amazon Bedrock",
+      "url": "https://aws.amazon.com/blogs/machine-learning/how-ninth-wave-built-ai-powered-open-finance-onboarding-on-amazon-bedrock",
+      "summary": "Learn how Ninth Wave built Compass, a multi-agent AI onboarding assistant on Amazon Bedrock AgentCore that validates bank APIs against Financial Data Exchange (FDX) standards, scores compliance, and compresses open finance onboarding from weeks to minutes while meeting SOC 2 and PCI DSS requirements.",
+      "source": "AWS Machine Learning Blog",
+      "published": "2026-09-14T15:58:57+00:00",
+      "categories": [
+        "ai-tools",
+        "healthcare-ai",
+        "rag-mlops",
+        "weekly-ai-synthesis"
+      ],
+      "priority": 8
+    },
+    {
+      "title": "The generative AI customization spectrum: From prompt engineering to custom models on AWS",
+      "url": "https://aws.amazon.com/blogs/machine-learning/the-generative-ai-customization-spectrum-from-prompt-engineering-to-custom-models-on-aws",
+      "summary": "Pick the right generative AI customization approach on AWS with an 8-step decision framework, from prompt engineering and RAG to fine-tuning, continued pre-training, and Amazon Nova Forge. Start simple and escalate only when you must.",
+      "source": "AWS Machine Learning Blog",
+      "published": "2026-09-14T15:47:12+00:00",
+      "categories": [
+        "ai-tools",
+        "healthcare-ai",
+        "rag-mlops",
+        "weekly-ai-synthesis"
+      ],
+      "priority": 8
+    },
+    {
+      "title": "Automate replenishment with MMF, Databricks Genie, and Amazon Quick",
+      "url": "https://aws.amazon.com/blogs/machine-learning/automate-replenishment-with-mmf-databricks-genie-and-amazon-quick",
+      "summary": "Foundation models made catalog-wide demand forecasting easy; the hard part is now acting on the forecast. This post builds a closed detect-decide-act loop on Databricks and Amazon Quick that reconciles demand surges against live supplier availability and places replenishment orders unattended, escalating to a human only when no supplier can cover a surge.",
+      "source": "AWS Machine Learning Blog",
+      "published": "2026-09-14T15:42:06+00:00",
+      "categories": [
+        "ai-tools",
+        "healthcare-ai",
+        "rag-mlops",
+        "weekly-ai-synthesis"
+      ],
+      "priority": 8
     },
     {
       "title": "How Fyxer built an AI executive assistant people trust",
@@ -804,6 +1048,20 @@
       "priority": 8
     },
     {
+      "title": "Monitoring production agent lifecycle with AWS DevOps Agent and AgentCore Evaluations",
+      "url": "https://aws.amazon.com/blogs/machine-learning/monitoring-production-agent-lifecycle-with-aws-devops-agent-and-agentcore-evaluations",
+      "summary": "Multi-agent systems fail in ways traditional monitoring misses. This post presents a dual-layer approach to monitoring production agents: Amazon Bedrock AgentCore Evaluations for continuous quality scoring and AWS DevOps Agent for autonomous infrastructure investigation, shown on a four-agent airline reservation system.",
+      "source": "AWS Machine Learning Blog",
+      "published": "2026-09-11T18:26:38+00:00",
+      "categories": [
+        "ai-tools",
+        "healthcare-ai",
+        "rag-mlops",
+        "weekly-ai-synthesis"
+      ],
+      "priority": 8
+    },
+    {
       "title": "Marketing ops as code: Automating events from planning to follow-up on GitHub",
       "url": "https://github.blog/ai-and-ml/github-copilot/marketing-ops-as-code-automating-events-from-planning-to-follow-up-on-github",
       "summary": "If you can write down how you do your work, you can automate it. Here's what I did to support GitHub's APAC marketing team. The post Marketing ops as code: Automating events from planning to follow-up on GitHub appeared first on The GitHub Blog .",
@@ -813,6 +1071,34 @@
         "ai-news",
         "ai-tools",
         "ai-agents",
+        "rag-mlops",
+        "weekly-ai-synthesis"
+      ],
+      "priority": 8
+    },
+    {
+      "title": "Beyond the price per token: Choosing the right OpenAI model on Amazon Bedrock for your workload",
+      "url": "https://aws.amazon.com/blogs/machine-learning/beyond-the-price-per-token-choosing-the-right-openai-model-on-amazon-bedrock-for-your-workload",
+      "summary": "Comparing models on dollars per million tokens misses what production workloads actually pay for: outcomes. This post shares an open-source benchmarking harness that measures cost per correct answer, agent trajectory cost, and rubric-graded deliverable quality across OpenAI models on Amazon Bedrock.",
+      "source": "AWS Machine Learning Blog",
+      "published": "2026-09-11T18:24:38+00:00",
+      "categories": [
+        "ai-tools",
+        "healthcare-ai",
+        "rag-mlops",
+        "weekly-ai-synthesis"
+      ],
+      "priority": 8
+    },
+    {
+      "title": "Build interactive MCP Apps using Amazon Bedrock AgentCore",
+      "url": "https://aws.amazon.com/blogs/machine-learning/build-interactive-mcp-apps-using-amazon-bedrock-agentcore",
+      "summary": "Learn how to build and deploy an MCP App with interactive HTML widgets on Amazon Bedrock AgentCore. Because MCP Apps is a host-agnostic standard, the same server delivers the same rich experience across AI hosts like ChatGPT and Claude that support the extension.",
+      "source": "AWS Machine Learning Blog",
+      "published": "2026-09-11T18:23:17+00:00",
+      "categories": [
+        "ai-tools",
+        "healthcare-ai",
         "rag-mlops",
         "weekly-ai-synthesis"
       ],
@@ -849,6 +1135,34 @@
       "priority": 10
     },
     {
+      "title": "Reduce LLM latency with prefix-aware routing on Amazon SageMaker Inference",
+      "url": "https://aws.amazon.com/blogs/machine-learning/reduce-llm-latency-with-prefix-aware-routing-on-amazon-sagemaker-inference",
+      "summary": "Amazon SageMaker Inference now offers prefix-aware routing, a routing strategy that sends requests sharing the same prompt prefix to the same instance so the KV cache stays warm. In benchmarks on Llama 3.1 70B, it reduced P50 time-to-first-token by up to 77% and raised KV cache hit rates from about 25% to over 80%.",
+      "source": "AWS Machine Learning Blog",
+      "published": "2026-09-10T21:58:09+00:00",
+      "categories": [
+        "ai-tools",
+        "healthcare-ai",
+        "rag-mlops",
+        "weekly-ai-synthesis"
+      ],
+      "priority": 8
+    },
+    {
+      "title": "Reduce inference cold starts on Amazon SageMaker HyperPod with model caching",
+      "url": "https://aws.amazon.com/blogs/machine-learning/reduce-inference-cold-starts-on-amazon-sagemaker-hyperpod-with-model-caching",
+      "summary": "Amazon SageMaker HyperPod now supports model caching for inference, which pre-loads model weights and container images onto cluster nodes so pods read from local NVMe storage instead of downloading over the network. Learn how model caching cuts cold starts from tens of minutes to seconds, how it works, and how to enable it.",
+      "source": "AWS Machine Learning Blog",
+      "published": "2026-09-10T21:37:49+00:00",
+      "categories": [
+        "ai-tools",
+        "healthcare-ai",
+        "rag-mlops",
+        "weekly-ai-synthesis"
+      ],
+      "priority": 8
+    },
+    {
       "title": "GitHub Copilot app for Beginners: Using the diff, terminal, and browser",
       "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-using-the-diff-terminal-and-browser",
       "summary": "Checking agent-generated code usually means hopping between tabs. Learn how to view diffs, run terminal commands, and preview web apps side by side in the GitHub Copilot app. The post GitHub Copilot app for Beginners: Using the diff, terminal, and browser appeared first on The GitHub Blog .",
@@ -858,6 +1172,34 @@
         "ai-news",
         "ai-tools",
         "ai-agents",
+        "rag-mlops",
+        "weekly-ai-synthesis"
+      ],
+      "priority": 8
+    },
+    {
+      "title": "Video and image search in Amazon Bedrock Knowledge Base using Marengo 3.0",
+      "url": "https://aws.amazon.com/blogs/machine-learning/video-and-image-search-in-amazon-bedrock-knowledge-base-using-marengo-3-0",
+      "summary": "TwelveLabs Marengo Embed 3.0 is now generally available as an embedding model in Amazon Bedrock Knowledge Bases, bringing fully managed natural language search to video, image, and audio content. This walkthrough shows how to build a knowledge base powered by Marengo 3.0 and run semantic queries against your media.",
+      "source": "AWS Machine Learning Blog",
+      "published": "2026-09-10T21:15:39+00:00",
+      "categories": [
+        "ai-tools",
+        "healthcare-ai",
+        "rag-mlops",
+        "weekly-ai-synthesis"
+      ],
+      "priority": 8
+    },
+    {
+      "title": "Amazon Quick is now generally available on desktop",
+      "url": "https://aws.amazon.com/blogs/machine-learning/amazon-quick-is-now-generally-available-on-desktop",
+      "summary": "Your teams get an AI assistant that handles real work while your data stays in your environment and your conversations stay private Today, the Amazon Quick desktop application is generally available on macOS and Windows. We’re also adding a new activity feed to the mobile experience on iOS and Android that consolidates email, calendar, CRM, […]",
+      "source": "AWS Machine Learning Blog",
+      "published": "2026-09-10T18:16:37+00:00",
+      "categories": [
+        "ai-tools",
+        "healthcare-ai",
         "rag-mlops",
         "weekly-ai-synthesis"
       ],
@@ -875,6 +1217,20 @@
         "healthcare-ai",
         "rag-mlops",
         "deep-learning-vision"
+      ],
+      "priority": 8
+    },
+    {
+      "title": "Build an end-to-end RFI questionnaire workflow using Amazon Quick Automate",
+      "url": "https://aws.amazon.com/blogs/machine-learning/build-an-end-to-end-rfi-questionnaire-workflow-using-amazon-quick-automate",
+      "summary": "Learn how to build an end-to-end RFI questionnaire workflow with Amazon Quick Automate. Read a multi-tab RFI workbook from Amazon S3, use natural-language prompts to extract and structure the questionnaire data, refine the workflow through conversation, and write clean CSV output back to Amazon S3 — cutting development from days to hours.",
+      "source": "AWS Machine Learning Blog",
+      "published": "2026-09-10T16:08:57+00:00",
+      "categories": [
+        "ai-tools",
+        "healthcare-ai",
+        "rag-mlops",
+        "weekly-ai-synthesis"
       ],
       "priority": 8
     },
@@ -1029,41 +1385,11 @@
       "priority": 8
     },
     {
-      "title": "Experiment with Qwen3.8-Flash-Next on NVIDIA GB300 NVL72 for Agentic Coding",
-      "url": "https://developer.nvidia.com/blog/experiment-with-qwen3-8-flash-next-on-nvidia-gb300-nvl72-for-agentic-coding",
-      "summary": "Alibaba released the model weights for Qwen3.8-Flash-Next as a preview of the upcoming Qwen4 architecture for developers to experiment with and evaluate. It’s...",
-      "source": "NVIDIA Technical Blog",
-      "published": "2026-09-09T20:48:39+00:00",
-      "categories": [
-        "ai-tools",
-        "ai-agents",
-        "healthcare-ai",
-        "rag-mlops",
-        "deep-learning-vision"
-      ],
-      "priority": 8
-    },
-    {
       "title": "When to Use Encode-Prefill-Decode Disaggregation to Accelerate Multimodal Model Serving",
       "url": "https://developer.nvidia.com/blog/when-to-use-encode-prefill-decode-disaggregation-to-accelerate-multimodal-model-serving",
       "summary": "Encode-prefill-decode (EPD) disaggregation is an inference optimization technique for multimodal models that separates the vision encoder stage from the prefill...",
       "source": "NVIDIA Technical Blog",
       "published": "2026-09-09T20:31:11+00:00",
-      "categories": [
-        "ai-tools",
-        "ai-agents",
-        "healthcare-ai",
-        "rag-mlops",
-        "deep-learning-vision"
-      ],
-      "priority": 8
-    },
-    {
-      "title": "Serve Qwen3.8-2.4T-A95B, a 2.4T-Parameter Model, with Configurable Reasoning on NVIDIA GB300 NVL72",
-      "url": "https://developer.nvidia.com/blog/serve-qwen3-8-2-4t-a95b-a-2-4t-parameter-model-with-configurable-reasoning-on-nvidia-gb300-nvl72",
-      "summary": "Alibaba released the open weights for Qwen3.8-2.4T-A95B (Qwen3.8-Max), its largest open-weight model, bringing near-frontier capabilities to the open...",
-      "source": "NVIDIA Technical Blog",
-      "published": "2026-09-09T20:30:33+00:00",
       "categories": [
         "ai-tools",
         "ai-agents",
@@ -3324,354 +3650,7 @@
         "weekly-ai-synthesis"
       ],
       "priority": 9
-    },
-    {
-      "title": "How canvases make agentic workflows visible, steerable, and cost-efficient",
-      "url": "https://github.blog/ai-and-ml/github-copilot/how-canvases-make-agentic-workflows-visible-steerable-and-cost-efficient",
-      "summary": "Chat is great for intent, but agent work gets lost in the scroll. Here is how I use canvases with my agentic workflows—and why your workflow also deserves a canvas. The post How canvases make agentic workflows visible, steerable, and cost-efficient appeared first on The GitHub Blog .",
-      "source": "GitHub AI and ML",
-      "published": "2026-08-17T16:00:00+00:00",
-      "categories": [
-        "ai-news",
-        "ai-tools",
-        "ai-agents",
-        "rag-mlops",
-        "weekly-ai-synthesis"
-      ],
-      "priority": 8
-    },
-    {
-      "title": "Get closer to the game with Gemini and Pixel",
-      "url": "https://blog.google/products-and-platforms/products/gemini/google-gemini-pixel-football-club-partnerships",
-      "summary": "Low-angle view of a soccer player kicking a ball mid-air against a bright blue sky, with grass flying from their cleats.",
-      "source": "Google AI",
-      "published": "2026-08-17T08:00:00+00:00",
-      "categories": [
-        "ai-news",
-        "ai-tools",
-        "ai-agents",
-        "healthcare-ai",
-        "weekly-ai-synthesis"
-      ],
-      "priority": 9
-    },
-    {
-      "title": "The Defender’s Window",
-      "url": "https://openai.com/index/the-defenders-window",
-      "summary": "AI is reshaping cybersecurity for attackers and defenders alike. Learn how OpenAI is strengthening its defenses and what security teams can do now.",
-      "source": "OpenAI News",
-      "published": "2026-08-17T05:30:00+00:00",
-      "categories": [
-        "ai-news",
-        "ai-tools",
-        "ai-agents",
-        "rag-mlops",
-        "weekly-ai-synthesis"
-      ],
-      "priority": 10
-    },
-    {
-      "title": "OpenAI joins PORTS-Pike project",
-      "url": "https://openai.com/index/openai-joins-ports-pike-project",
-      "summary": "OpenAI joins PORTS-Pike project, expanding community investment and supporting thousands of Southern Ohio jobs",
-      "source": "OpenAI News",
-      "published": "2026-08-17T05:00:00+00:00",
-      "categories": [
-        "ai-news",
-        "ai-tools",
-        "ai-agents",
-        "rag-mlops",
-        "weekly-ai-synthesis"
-      ],
-      "priority": 10
-    },
-    {
-      "title": "New policy ideas for the Intelligence Age",
-      "url": "https://openai.com/index/new-policy-ideas-for-the-intelligence-age",
-      "summary": "OpenAI funds 14 independent projects exploring new AI policy ideas to expand economic opportunity and strengthen societal resilience in the Intelligence Age.",
-      "source": "OpenAI News",
-      "published": "2026-08-17T03:15:00+00:00",
-      "categories": [
-        "ai-news",
-        "ai-tools",
-        "ai-agents",
-        "rag-mlops",
-        "weekly-ai-synthesis"
-      ],
-      "priority": 10
-    },
-    {
-      "title": "State of Open Models: Summer 2026 Observations",
-      "url": "https://huggingface.co/blog/state-of-open-models-summer-2026",
-      "summary": "",
-      "source": "Hugging Face",
-      "published": "2026-08-14T00:00:00+00:00",
-      "categories": [
-        "ai-tools",
-        "ai-agents",
-        "rag-mlops",
-        "deep-learning-vision",
-        "weekly-ai-synthesis"
-      ],
-      "priority": 9
-    },
-    {
-      "title": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
-      "url": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
-      "summary": "",
-      "source": "Hugging Face",
-      "published": "2026-08-13T17:16:04+00:00",
-      "categories": [
-        "ai-tools",
-        "ai-agents",
-        "rag-mlops",
-        "deep-learning-vision",
-        "weekly-ai-synthesis"
-      ],
-      "priority": 9
-    },
-    {
-      "title": "Introducing Gemini 3.7 Flash",
-      "url": "https://deepmind.google/blog/introducing-gemini-3-7-flash",
-      "summary": "",
-      "source": "Google DeepMind",
-      "published": "2026-08-13T17:04:18+00:00",
-      "categories": [
-        "ai-news",
-        "ai-agents",
-        "healthcare-ai",
-        "deep-learning-vision",
-        "weekly-ai-synthesis"
-      ],
-      "priority": 10
-    },
-    {
-      "title": "Bring your spreadsheet data to life with Sheets canvas",
-      "url": "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets",
-      "summary": "The video shows Sheets canvas in action.",
-      "source": "Google AI",
-      "published": "2026-08-13T16:45:00+00:00",
-      "categories": [
-        "ai-news",
-        "ai-tools",
-        "ai-agents",
-        "healthcare-ai",
-        "weekly-ai-synthesis"
-      ],
-      "priority": 9
-    },
-    {
-      "title": "The builder’s guide to GPT‑5.6",
-      "url": "https://openai.com/index/builders-guide-to-gpt-5-6",
-      "summary": "Learn how startups use GPT-5.6 to build faster, more cost-efficient AI agents with smarter model selection and new Responses API capabilities.",
-      "source": "OpenAI News",
-      "published": "2026-08-13T11:00:00+00:00",
-      "categories": [
-        "ai-news",
-        "ai-tools",
-        "ai-agents",
-        "rag-mlops",
-        "weekly-ai-synthesis"
-      ],
-      "priority": 10
-    },
-    {
-      "title": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
-      "url": "https://openai.com/index/previewing-ultrafast",
-      "summary": "Preview Ultrafast, a new OpenAI API service tier that runs GPT-5.6 Sol up to 14× faster. Powered by Cerebras, it delivers up to 750 output tokens per second.",
-      "source": "OpenAI News",
-      "published": "2026-08-13T10:00:00+00:00",
-      "categories": [
-        "ai-news",
-        "ai-tools",
-        "ai-agents",
-        "rag-mlops",
-        "weekly-ai-synthesis"
-      ],
-      "priority": 10
-    },
-    {
-      "title": "OpenAI appoints Dali Rajic as Chief Revenue Officer",
-      "url": "https://openai.com/index/dali-rajic-chief-revenue-officer",
-      "summary": "OpenAI appoints Dali Rajic as Chief Revenue Officer to lead its global revenue organization and help businesses realize the full value of AI.",
-      "source": "OpenAI News",
-      "published": "2026-08-13T09:00:00+00:00",
-      "categories": [
-        "ai-news",
-        "ai-tools",
-        "ai-agents",
-        "rag-mlops",
-        "weekly-ai-synthesis"
-      ],
-      "priority": 10
-    },
-    {
-      "title": "What We Learned by Reproducing 2,200 papers from ICML",
-      "url": "https://huggingface.co/blog/icml-2026-open-reproductions",
-      "summary": "",
-      "source": "Hugging Face",
-      "published": "2026-08-13T00:00:00+00:00",
-      "categories": [
-        "ai-tools",
-        "ai-agents",
-        "rag-mlops",
-        "deep-learning-vision",
-        "weekly-ai-synthesis"
-      ],
-      "priority": 9
-    },
-    {
-      "title": "NVIDIA NVLink: The Scale-Up Network for AI Factories",
-      "url": "https://developer.nvidia.com/blog/nvidia-nvlink-the-scale-up-network-for-ai-factories",
-      "summary": "The demand for AI continues to accelerate. Workloads are getting larger, models are becoming more complex, and there is mounting pressure to deploy AI compute...",
-      "source": "NVIDIA Technical Blog",
-      "published": "2026-08-12T21:23:17+00:00",
-      "categories": [
-        "ai-tools",
-        "ai-agents",
-        "healthcare-ai",
-        "rag-mlops",
-        "deep-learning-vision"
-      ],
-      "priority": 8
-    },
-    {
-      "title": "Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis",
-      "url": "https://huggingface.co/blog/allenai/olmoearth-embeddings",
-      "summary": "",
-      "source": "Hugging Face",
-      "published": "2026-08-12T16:14:36+00:00",
-      "categories": [
-        "ai-tools",
-        "ai-agents",
-        "rag-mlops",
-        "deep-learning-vision",
-        "weekly-ai-synthesis"
-      ],
-      "priority": 9
-    },
-    {
-      "title": "MindTopo reveals VLMs’ spatial reasoning abilities",
-      "url": "https://www.microsoft.com/en-us/research/blog/mindtopo-reveals-vlms-spatial-reasoning-abilities",
-      "summary": "A path, a fence, a knot. MindTopo sets a new benchmark for testing how AI understands topological relationships and highlights new opportunities to strengthen spatial reasoning and planning. The post MindTopo reveals VLMs’ spatial reasoning abilities appeared first on Microsoft Research .",
-      "source": "Microsoft Research",
-      "published": "2026-08-12T16:00:00+00:00",
-      "categories": [
-        "ai-news",
-        "ai-agents",
-        "healthcare-ai",
-        "rag-mlops",
-        "deep-learning-vision",
-        "weekly-ai-synthesis"
-      ],
-      "priority": 9
-    },
-    {
-      "title": "Putting sign language AI into users’ hands",
-      "url": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands",
-      "summary": "Introducing sign-language-to-text (SL2T), our breakthrough model powering new sign language features for Deaf and hard of hearing users.",
-      "source": "Google DeepMind",
-      "published": "2026-08-12T14:01:59+00:00",
-      "categories": [
-        "ai-news",
-        "ai-agents",
-        "healthcare-ai",
-        "deep-learning-vision",
-        "weekly-ai-synthesis"
-      ],
-      "priority": 10
-    },
-    {
-      "title": "From assistance to execution: How enterprises put AI to work",
-      "url": "https://openai.com/index/how-enterprises-put-ai-to-work",
-      "summary": "OpenAI research reveals how enterprises are adopting agentic AI, using ChatGPT and Codex, and how frontier firms are pulling ahead in AI adoption.",
-      "source": "OpenAI News",
-      "published": "2026-08-12T06:00:00+00:00",
-      "categories": [
-        "ai-news",
-        "ai-tools",
-        "ai-agents",
-        "rag-mlops",
-        "weekly-ai-synthesis"
-      ],
-      "priority": 10
-    },
-    {
-      "title": "How RingCentral builds AI-native work from engineering to ops",
-      "url": "https://openai.com/index/ringcentral",
-      "summary": "See how RingCentral uses ChatGPT Work and Codex to accelerate AI product development and centralize operational intelligence across engineering and operations.",
-      "source": "OpenAI News",
-      "published": "2026-08-12T00:00:00+00:00",
-      "categories": [
-        "ai-news",
-        "ai-tools",
-        "ai-agents",
-        "rag-mlops",
-        "weekly-ai-synthesis"
-      ],
-      "priority": 10
-    },
-    {
-      "title": "AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations",
-      "summary": "AMIE promotional video",
-      "source": "Google AI",
-      "published": "2026-08-11T17:00:00+00:00",
-      "categories": [
-        "ai-news",
-        "ai-tools",
-        "ai-agents",
-        "healthcare-ai",
-        "weekly-ai-synthesis"
-      ],
-      "priority": 9
-    },
-    {
-      "title": "Introducing CARE-X: Towards Clinically Useful Radiology VLMs with Auxiliary Supervision, Reward-Aligned Learning, and Tool-Augmented Measurement",
-      "url": "https://www.microsoft.com/en-us/research/blog/introducing-care-x-towards-clinically-useful-radiology-vlms-with-auxiliary-supervision-reward-aligned-learning-and-tool-augmented-measurement",
-      "summary": "Radiology AI is evolving beyond report generation. CARE-X explores a unified approach that combines flexible reasoning, calibrated predictions, and measurement-based tools for chest X-ray interpretation. The post Introducing CARE-X: Towards Clinically Useful Radiology VLMs with Auxiliary Supervision, Reward-Aligned Learning, and Tool-Augmented Measurement appeared first on Microsoft Research .",
-      "source": "Microsoft Research",
-      "published": "2026-08-11T16:00:00+00:00",
-      "categories": [
-        "ai-news",
-        "ai-agents",
-        "healthcare-ai",
-        "rag-mlops",
-        "deep-learning-vision",
-        "weekly-ai-synthesis"
-      ],
-      "priority": 9
-    },
-    {
-      "title": "Thinking of ACE? We Can Do It with Fewer Tokens",
-      "url": "https://huggingface.co/blog/ibm-research/altk-evolve-sldd",
-      "summary": "",
-      "source": "Hugging Face",
-      "published": "2026-08-11T13:37:10+00:00",
-      "categories": [
-        "ai-tools",
-        "ai-agents",
-        "rag-mlops",
-        "deep-learning-vision",
-        "weekly-ai-synthesis"
-      ],
-      "priority": 9
-    },
-    {
-      "title": "Testing ads in ChatGPT",
-      "url": "https://openai.com/index/testing-ads-in-chatgpt",
-      "summary": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control.",
-      "source": "OpenAI News",
-      "published": "2026-08-11T10:00:00+00:00",
-      "categories": [
-        "ai-news",
-        "ai-tools",
-        "ai-agents",
-        "rag-mlops",
-        "weekly-ai-synthesis"
-      ],
-      "priority": 10
     }
   ],
-  "last_successful_run": "2026-09-16T07:43:38.830757+01:00"
+  "last_successful_run": "2026-09-17T07:43:44.829076+01:00"
 }
