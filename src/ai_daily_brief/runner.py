@@ -140,7 +140,7 @@ def run_daily(
         for article in _fallback_articles(root)
         if topic["slug"] in article.categories
     ]
-    candidates = _merge_articles(cached, fallbacks, fresh_articles)
+    candidates = fresh_articles if fixture_path else _merge_articles(cached, fallbacks, fresh_articles)
     used_urls = {canonical_url(value) for value in state.get("used_urls", [])}
     article = choose_article(candidates, topic, used_urls, run_date)
     validate_article(article)
