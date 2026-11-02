@@ -7,6 +7,7 @@ Each brief starts from a cited primary source. The writing is intentionally shor
 ## Latest briefs
 
 <!-- DAILY_INDEX_START -->
+- [2026-11-02 — An updated Model Spec for more capable and beneficial AI](daily/2026/11/2026-11-02-an-updated-model-spec-for-more-capable-and-beneficial-ai.md)
 - [2026-11-01 — How I Aligned Your Model: Scaling Up Multilingual Safety Training with Templates](daily/2026/11/2026-11-01-how-i-aligned-your-model-scaling-up-multilingual-safety-training-with-templates.md)
 - [2026-10-31 — Build specialized multimodal models with LFM3](daily/2026/10/2026-10-31-build-specialized-multimodal-models-with-lfm3.md)
 - [2026-09-18 — Rapidly scaling online storage to serve over 1 billion ChatGPT users](daily/2026/09/2026-09-18-rapidly-scaling-online-storage-to-serve-over-1-billion-chatgpt-users.md)
