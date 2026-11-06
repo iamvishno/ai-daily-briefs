@@ -7,6 +7,7 @@ Each brief starts from a cited primary source. The writing is intentionally shor
 ## Latest briefs
 
 <!-- DAILY_INDEX_START -->
+- [2026-11-06 — Peeling the Matryoshka: Extracting Ontological Structure from Retrieval Embeddings](daily/2026/11/2026-11-06-peeling-the-matryoshka-extracting-ontological-structure-from-retrieval.md)
 - [2026-11-05 — Speeding up planning decisions with AI](daily/2026/11/2026-11-05-speeding-up-planning-decisions-with-ai.md)
 - [2026-11-04 — Agentic cheminformatics with Google Antigravity](daily/2026/11/2026-11-04-agentic-cheminformatics-with-google-antigravity.md)
 - [2026-11-03 — How MoEngage turned over 400 APIs into agent tools with AgentCore Gateway](daily/2026/11/2026-11-03-how-moengage-turned-over-400-apis-into-agent-tools-with-agentcore-gateway.md)
