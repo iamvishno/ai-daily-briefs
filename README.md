@@ -7,6 +7,7 @@ Each brief starts from a cited primary source. The writing is intentionally shor
 ## Latest briefs
 
 <!-- DAILY_INDEX_START -->
+- [2026-11-09 — Franklin Templeton uses OpenAI to support investment research](daily/2026/11/2026-11-09-franklin-templeton-uses-openai-to-support-investment-research.md)
 - [2026-11-08 — Use decision models with Amazon Bedrock AgentCore Evaluations](daily/2026/11/2026-11-08-use-decision-models-with-amazon-bedrock-agentcore-evaluations.md)
 - [2026-11-07 — Speed Up Image Generation with FLUX 3 Image Klein on NVIDIA Blackwell GPUs](daily/2026/11/2026-11-07-speed-up-image-generation-with-flux-3-image-klein-on-nvidia-blackwell-gpus.md)
 - [2026-11-06 — Peeling the Matryoshka: Extracting Ontological Structure from Retrieval Embeddings](daily/2026/11/2026-11-06-peeling-the-matryoshka-extracting-ontological-structure-from-retrieval.md)
