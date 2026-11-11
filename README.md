@@ -7,6 +7,7 @@ Each brief starts from a cited primary source. The writing is intentionally shor
 ## Latest briefs
 
 <!-- DAILY_INDEX_START -->
+- [2026-11-11 — CodeRabbit scales agentic software development and ships 20x more](daily/2026/11/2026-11-11-coderabbit-scales-agentic-software-development-and-ships-20x-more.md)
 - [2026-11-10 — Control Room: A central system to track and stop model workloads across our research infrastructure](daily/2026/11/2026-11-10-control-room-a-central-system-to-track-and-stop-model-workloads-across-our.md)
 - [2026-11-09 — Franklin Templeton uses OpenAI to support investment research](daily/2026/11/2026-11-09-franklin-templeton-uses-openai-to-support-investment-research.md)
 - [2026-11-08 — Use decision models with Amazon Bedrock AgentCore Evaluations](daily/2026/11/2026-11-08-use-decision-models-with-amazon-bedrock-agentcore-evaluations.md)
