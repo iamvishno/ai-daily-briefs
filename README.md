@@ -7,6 +7,7 @@ Each brief starts from a cited primary source. The writing is intentionally shor
 ## Latest briefs
 
 <!-- DAILY_INDEX_START -->
+- [2026-11-14 — Spatial Foundry: A Multimodal Dataset for Spatial Intelligence](daily/2026/11/2026-11-14-spatial-foundry-a-multimodal-dataset-for-spatial-intelligence.md)
 - [2026-11-13 — Token Pooling-Aware Training for Multi-Vector Embedding Models](daily/2026/11/2026-11-13-token-pooling-aware-training-for-multi-vector-embedding-models.md)
 - [2026-11-12 — Google Cloud launches Gemini for healthcare.](daily/2026/11/2026-11-12-google-cloud-launches-gemini-for-healthcare.md)
 - [2026-11-11 — CodeRabbit scales agentic software development and ships 20x more](daily/2026/11/2026-11-11-coderabbit-scales-agentic-software-development-and-ships-20x-more.md)
