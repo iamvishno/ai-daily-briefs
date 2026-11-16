@@ -7,6 +7,7 @@ Each brief starts from a cited primary source. The writing is intentionally shor
 ## Latest briefs
 
 <!-- DAILY_INDEX_START -->
+- [2026-11-16 — LM-SimBench: A Unified Framework, Dataset, and Benchmark for Large Language Model Training Simulation](daily/2026/11/2026-11-16-lm-simbench-a-unified-framework-dataset-and-benchmark-for-large-language-model.md)
 - [2026-11-15 — Supporting research on AI and children’s safety](daily/2026/11/2026-11-15-supporting-research-on-ai-and-children-s-safety.md)
 - [2026-11-14 — Spatial Foundry: A Multimodal Dataset for Spatial Intelligence](daily/2026/11/2026-11-14-spatial-foundry-a-multimodal-dataset-for-spatial-intelligence.md)
 - [2026-11-13 — Token Pooling-Aware Training for Multi-Vector Embedding Models](daily/2026/11/2026-11-13-token-pooling-aware-training-for-multi-vector-embedding-models.md)
