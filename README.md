@@ -7,6 +7,7 @@ Each brief starts from a cited primary source. The writing is intentionally shor
 ## Latest briefs
 
 <!-- DAILY_INDEX_START -->
+- [2026-11-17 — Cost attribution and controls for AI developer and productivity tools on Amazon Bedrock](daily/2026/11/2026-11-17-cost-attribution-and-controls-for-ai-developer-and-productivity-tools-on-amazon.md)
 - [2026-11-16 — LM-SimBench: A Unified Framework, Dataset, and Benchmark for Large Language Model Training Simulation](daily/2026/11/2026-11-16-lm-simbench-a-unified-framework-dataset-and-benchmark-for-large-language-model.md)
 - [2026-11-15 — Supporting research on AI and children’s safety](daily/2026/11/2026-11-15-supporting-research-on-ai-and-children-s-safety.md)
 - [2026-11-14 — Spatial Foundry: A Multimodal Dataset for Spatial Intelligence](daily/2026/11/2026-11-14-spatial-foundry-a-multimodal-dataset-for-spatial-intelligence.md)
