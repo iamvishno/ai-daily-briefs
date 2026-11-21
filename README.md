@@ -7,6 +7,7 @@ Each brief starts from a cited primary source. The writing is intentionally shor
 ## Latest briefs
 
 <!-- DAILY_INDEX_START -->
+- [2026-11-21 — Text-Aware, Vision-Blind: How Multimodal Image Editing Systems Handle Unsafe Inputs](daily/2026/11/2026-11-21-text-aware-vision-blind-how-multimodal-image-editing-systems-handle-unsafe.md)
 - [2026-11-20 — Managing frontier AI risk: From training to deployment](daily/2026/11/2026-11-20-managing-frontier-ai-risk-from-training-to-deployment.md)
 - [2026-11-19 — Design responsible AI controls for Amazon Aurora PostgreSQL](daily/2026/11/2026-11-19-design-responsible-ai-controls-for-amazon-aurora-postgresql.md)
 - [2026-11-18 — NVIDIA Vera Rubin NVL72 Leads Agentic Inference Performance on MLPerf Endpoints v1.0](daily/2026/11/2026-11-18-nvidia-vera-rubin-nvl72-leads-agentic-inference-performance-on-mlperf-endpoints.md)
