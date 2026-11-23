@@ -7,6 +7,7 @@ Each brief starts from a cited primary source. The writing is intentionally shor
 ## Latest briefs
 
 <!-- DAILY_INDEX_START -->
+- [2026-11-23 — Neural Defend ARCAS 290M: A Robust Foundation Model for AI-Generated Audio Detection](daily/2026/11/2026-11-23-neural-defend-arcas-290m-a-robust-foundation-model-for-ai-generated-audio.md)
 - [2026-11-22 — Advancing chip design with OpenAI models](daily/2026/11/2026-11-22-advancing-chip-design-with-openai-models.md)
 - [2026-11-21 — Text-Aware, Vision-Blind: How Multimodal Image Editing Systems Handle Unsafe Inputs](daily/2026/11/2026-11-21-text-aware-vision-blind-how-multimodal-image-editing-systems-handle-unsafe.md)
 - [2026-11-20 — Managing frontier AI risk: From training to deployment](daily/2026/11/2026-11-20-managing-frontier-ai-risk-from-training-to-deployment.md)
