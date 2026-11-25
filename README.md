@@ -7,6 +7,7 @@ Each brief starts from a cited primary source. The writing is intentionally shor
 ## Latest briefs
 
 <!-- DAILY_INDEX_START -->
+- [2026-11-25 — How to build and maintain an agentic evaluation](daily/2026/11/2026-11-25-how-to-build-and-maintain-an-agentic-evaluation.md)
 - [2026-11-24 — Introducing Tool Retrieval in the Gemini API](daily/2026/11/2026-11-24-introducing-tool-retrieval-in-the-gemini-api.md)
 - [2026-11-23 — Neural Defend ARCAS 290M: A Robust Foundation Model for AI-Generated Audio Detection](daily/2026/11/2026-11-23-neural-defend-arcas-290m-a-robust-foundation-model-for-ai-generated-audio.md)
 - [2026-11-22 — Advancing chip design with OpenAI models](daily/2026/11/2026-11-22-advancing-chip-design-with-openai-models.md)
