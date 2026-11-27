@@ -7,6 +7,7 @@ Each brief starts from a cited primary source. The writing is intentionally shor
 ## Latest briefs
 
 <!-- DAILY_INDEX_START -->
+- [2026-11-27 — When Rubrics Do Not Decide: Silent Value Completion in LLM Evaluation](daily/2026/11/2026-11-27-when-rubrics-do-not-decide-silent-value-completion-in-llm-evaluation.md)
 - [2026-11-26 — From spectrum to structure: Identifying molecules with Mass Spec Skills for Google Antigravity](daily/2026/11/2026-11-26-from-spectrum-to-structure-identifying-molecules-with-mass-spec-skills-for.md)
 - [2026-11-25 — How to build and maintain an agentic evaluation](daily/2026/11/2026-11-25-how-to-build-and-maintain-an-agentic-evaluation.md)
 - [2026-11-24 — Introducing Tool Retrieval in the Gemini API](daily/2026/11/2026-11-24-introducing-tool-retrieval-in-the-gemini-api.md)
@@ -36,7 +37,6 @@ Each brief starts from a cited primary source. The writing is intentionally shor
 - [2026-10-31 — Build specialized multimodal models with LFM3](daily/2026/10/2026-10-31-build-specialized-multimodal-models-with-lfm3.md)
 - [2026-09-18 — Rapidly scaling online storage to serve over 1 billion ChatGPT users](daily/2026/09/2026-09-18-rapidly-scaling-online-storage-to-serve-over-1-billion-chatgpt-users.md)
 - [2026-09-17 — Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking](daily/2026/09/2026-09-17-introducing-gemini-3-8-live-and-3-8-live-extended-thinking.md)
-- [2026-09-16 — Agentic Societies Need a Social Harness](daily/2026/09/2026-09-16-agentic-societies-need-a-social-harness.md)
 <!-- DAILY_INDEX_END -->
 
 ## Weekly focus
