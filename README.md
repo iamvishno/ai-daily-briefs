@@ -7,6 +7,7 @@ Each brief starts from a cited primary source. The writing is intentionally shor
 ## Latest briefs
 
 <!-- DAILY_INDEX_START -->
+- [2026-11-28 — Taking Trainium3 to the Track: Generating Videos with LTX-2.5](daily/2026/11/2026-11-28-taking-trainium3-to-the-track-generating-videos-with-ltx-2-5.md)
 - [2026-11-27 — When Rubrics Do Not Decide: Silent Value Completion in LLM Evaluation](daily/2026/11/2026-11-27-when-rubrics-do-not-decide-silent-value-completion-in-llm-evaluation.md)
 - [2026-11-26 — From spectrum to structure: Identifying molecules with Mass Spec Skills for Google Antigravity](daily/2026/11/2026-11-26-from-spectrum-to-structure-identifying-molecules-with-mass-spec-skills-for.md)
 - [2026-11-25 — How to build and maintain an agentic evaluation](daily/2026/11/2026-11-25-how-to-build-and-maintain-an-agentic-evaluation.md)
@@ -36,7 +37,6 @@ Each brief starts from a cited primary source. The writing is intentionally shor
 - [2026-11-01 — How I Aligned Your Model: Scaling Up Multilingual Safety Training with Templates](daily/2026/11/2026-11-01-how-i-aligned-your-model-scaling-up-multilingual-safety-training-with-templates.md)
 - [2026-10-31 — Build specialized multimodal models with LFM3](daily/2026/10/2026-10-31-build-specialized-multimodal-models-with-lfm3.md)
 - [2026-09-18 — Rapidly scaling online storage to serve over 1 billion ChatGPT users](daily/2026/09/2026-09-18-rapidly-scaling-online-storage-to-serve-over-1-billion-chatgpt-users.md)
-- [2026-09-17 — Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking](daily/2026/09/2026-09-17-introducing-gemini-3-8-live-and-3-8-live-extended-thinking.md)
 <!-- DAILY_INDEX_END -->
 
 ## Weekly focus
